@@ -1,0 +1,27 @@
+[
+	{
+	"id":"1",
+	"title": "Dream Come True",
+	"body": "Disney quote is so accurate and it did come true for me. I always dreamt of seeing and exploring new places, but always had something or the other come in the way that delayed the dream I had.I never left hope and always thought that when it's written, it written and what has to happen, will happen and finally my dream came true.Never did imagine that I will be in USA and that too in New York. Things were different just6 months back.One exam, follwed by visa, last day of office and then finally living my home country after 30 years.I was planning for Masters in Canada when I met my consultant and he said that I can try for USA. Not in my wildest of dream had I imagined that it will come true and so I believe that Dreams do come true. ",
+	"date": "11/23/2021",
+	"imgUrl":"disney-quote.jpg",
+    "summary":"Disney quote is so accurate and it did come true for me......"
+	},
+	{
+	"id":"2",
+	"title": "Cricket an Emotion",
+	"body": "Cricket unites India. Cricket in India is not just a game but its a way of life and that would not have been possible without the loyal fans. Indian fans are passionate and sometimes irrational, but at the end of the day, they play a big role in elevating the status of the game. Cricket is a religion here; which unites everyone irrespective of their caste, creed or socio-economic strata.\nCricket is the most popular sport in India and some would even see it as a religion in the country instead of a sport. When there’s a big cricket match, everybody will seem to stop what they’re doing and just focus on the game. You’ll also see many children play gully cricket on the streets. It’s simply something that unites the Indians like nothing else in the world. There are just many reasons why Indians love and enjoy cricket so much, and here are some of those. India’s interest In cricket is definitely to the extremes. Up to this day, the love for cricket that Indians have remains the same.",
+	"date": "11/20/2021",
+	"imgUrl":"cricket.jpg",
+    "summary":"In India when we talk of cricket it is not just a game, but an emotion......"
+	},
+	{
+	"id":"3",
+	"title": "Code to Rescue",
+	"body": "A lot has changed in the world, mainly the modernization and the digitalization of things. Digitalization is the capability of making things easier by automating it in a virtual or an electronic device. \n Coding is the most interesting and intuitive of them all. You can automate almost any task by writing a script or a code.\nCoding is a fun and interesting habit that I believe people should start to develop as the world turns into a futuristic space. Many people visualize coding as typing random letters into the keyboard but it has a lot more meaning than that. Let me take you through my coding journey and what I personally think about it.I first heard the term “coding”, in the middle of 2020 and got really interested by it. My journey of coding started with a deep research of it which took several hours. But, amongst all the research, the one term that intrigued me was “programming languages”. Were they just normal languages like English? After learning more about them, I came to know that they were the language used for writing the script or the code. The highest rated and the most beginner-friendly programming language was Python. I then proceeded learning it by watching a famous tutorial on YouTube. It was a bit difficult at the beginning but as I started dedicating more time and interest into it, it became much easier. I finished learning the “basics” of the language in about a week.",
+	"date": "11/21/2121",
+	"imgUrl":"coding.jpg",
+    "summary":"From switching streams to sticking to coding, because it just clicked....."
+	}
+	
+]
