@@ -1,4 +1,3 @@
-#LINK FOR CLOUD DRIVE VIDEO: https://drive.google.com/file/d/1Ws0QXE_FZxrmDGAv9x3dfWVWx2gGThQI/view?usp=share_link
 
 # ReactJs_Blog
 Creating a blog website in react js with third party api integration
